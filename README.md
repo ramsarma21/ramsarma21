@@ -44,13 +44,10 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ramssarma@utexas.edu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="34" height="34" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ramsarma-portfolio.vercel.app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="34" height="34" />
+    <img src="https://img.icons8.com/fluency/48/mail.png" width="34" height="34" />
   </a>
 </p>
+
 
 
 ### 🧰 Languages and Tools
