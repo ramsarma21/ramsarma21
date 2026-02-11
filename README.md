@@ -25,7 +25,7 @@
 - ML/NLP/computer vision tooling
 - Data/automation pipelines (scraping, ETL, dashboards)
 
-### 📫 How to reach me
+### 📫 How to find me
 - Email: **ramssarma@utexas.edu**
 - LinkedIn: **https://linkedin.com/in/ramssarma**
 - Portfolio: **https://ramsarma-portfolio.vercel.app**
@@ -36,10 +36,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/ramssarma" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" height="34" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ramssarma@utexas.edu" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/mail.png" width="34" height="34" />
   </a>
 </p>
 
