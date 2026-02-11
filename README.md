@@ -1,17 +1,53 @@
-## Hi, I'm Ram  👋
-CS @ UT Austin
+<h1 align="center">Hey 👋, I'm Ram Sarma</h1>
 
-<!--
-**ramsarma21/ramsarma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  CS @ UT Austin • Web/IOS Full-stack • AI/ML • QA Testing
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:ramssarma@utexas.edu">ramssarma@utexas.edu</a> •
+  <a href="https://linkedin.com/in/ramssarma">LinkedIn</a> •
+  <a href="https://ramsarma-portfolio.com">Portfolio</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm currently working on
+- **Morphed (iOS App)** — men’s dating/health improvement app; building automated image generation + photo enhancement workflows
+- **Intuit** — shipping product features end-to-end (JS + REST APIs) with unit/integration/regression tests to improve reliability
+
+### 🧪 Projects
+- **Morphed** — Swift, JavaScript, Gemini API, Supabase  
+- **Reddit TL;DR Bot** — JS Chrome extension + Python (Flask) pipeline for comment sampling + sentiment TL;DRs  
+- **AllergyPatrol** — Next.js (TS) + Spoonacular + CNN/ResNet50 (FastAPI) for allergen-safe recommendations + image-based detection
+
+### 🤝 I'm looking to collaborate on
+- Web Full-stack apps (Next.js/React/TypeScript)
+- IOS Apps (Swift, JavaScript)
+- ML/NLP/computer vision tooling
+- Data/automation pipelines (scraping, ETL, dashboards)
+
+### 📫 How to reach me
+- Email: **ramssarma@utexas.edu**
+- LinkedIn: **https://linkedin.com/in/ramssarma**
+- Portfolio: **https://ramsarma-portfolio.vercel.app**
+
+---
+
+### 🔗 Connect with me
+<p>
+  <a href="https://linkedin.com/in/ramssarma">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ramssarma@utexas.edu">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ramsarma21">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+### 🧰 Languages and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,sql,r,js,ts,html,css,react,nextjs,nodejs,flask,fastapi,django,spring,postgres,mysql,mongodb,aws,azure,gcp,vercel,docker,git,githubactions,linux,bash,swift" />
+</p>
