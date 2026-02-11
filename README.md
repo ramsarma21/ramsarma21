@@ -4,9 +4,6 @@
   CS @ UT Austin | Web/IOS Full-stack • AI/ML • QA Testing
 </p>
 
-
----
-
 ### 🚀 What I'm currently working on
 - **Morphed (iOS App)** — men’s dating/health improvement app; building automated image generation + photo enhancement workflows
 - **Intuit** — shipping product features end-to-end (JS + REST APIs) with unit/integration/regression tests to improve reliability
