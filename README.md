@@ -11,6 +11,7 @@
 ### 🧪 Projects
 - **Reddit TL;DR Bot** — JS Chrome extension + Python (Flask) pipeline for comment sampling + sentiment TL;DRs  
 - **AllergyPatrol** — Next.js (TS) + Spoonacular + CNN/ResNet50 (FastAPI) for allergen-safe recommendations + image-based detection
+- **CodeKidsAcademy** — SvelteKit + TypeScript interactive coding education platform with live lessons/quizzes; Flask backend for sandboxed environments; designed in Figma; authored curriculum and taught live OOP + DSA fundamentals to 100+ students
 - **PipeAlign (TIDAL HACK 2026)** — Python (Pandas/NumPy) + Streamlit + Matplotlib/Plotly for multi-run ILI alignment + anomaly matching (weld-anchored drift correction, schema/unit normalization, explainable outputs + bounded projections); Recieved **RCP Track Honorable Mention**
 - **T-Care (HackUTD 2025)** — Supabase + Google Gemini + Vite + Tailwind CSS with WebSocket streaming + multi-channel alerts (Email, Telegram bot, VAPI voice assistant) and tower status monitoring in a unified interface; Recieved **HackUTD T-Mobile Honorable Mention**
 
