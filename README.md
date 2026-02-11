@@ -38,14 +38,20 @@
 ---
 
 ### 🔗 Connect with me
-<p>
-  <a href="https://linkedin.com/in/ramssarma">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="left">
+  <a href="https://linkedin.com/in/ramssarma" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" height="34" />
   </a>
-  <a href="mailto:ramssarma@utexas.edu">
-    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>>
+  &nbsp;&nbsp;
+  <a href="mailto:ramssarma@utexas.edu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="34" height="34" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ramsarma-portfolio.vercel.app" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="34" height="34" />
+  </a>
 </p>
+
 
 ### 🧰 Languages and Tools
 <p>
