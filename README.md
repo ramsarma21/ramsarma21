@@ -1,14 +1,9 @@
 <h1 align="center">Hey 👋, I'm Ram Sarma</h1>
 
 <p align="center">
-  CS @ UT Austin • Web/IOS Full-stack • AI/ML • QA Testing
+  CS @ UT Austin | Web/IOS Full-stack • AI/ML • QA Testing
 </p>
 
-<p align="center">
-  <a href="mailto:ramssarma@utexas.edu">ramssarma@utexas.edu</a> •
-  <a href="https://linkedin.com/in/ramssarma">LinkedIn</a> •
-  <a href="https://ramsarma-portfolio.com">Portfolio</a>
-</p>
 
 ---
 
