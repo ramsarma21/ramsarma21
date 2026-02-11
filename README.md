@@ -5,8 +5,8 @@
 </p>
 
 ### 🚀 What I'm currently working on
+- Shipping product features end-to-end (JS + REST APIs) with unit/integration/regression tests to improve reliability at **Intuit**
 - **Morphed (iOS App)** — men’s dating/health improvement app; building automated image generation + photo enhancement workflows
-- **Intuit** — shipping product features end-to-end (JS + REST APIs) with unit/integration/regression tests to improve reliability
 
 ### 🧪 Projects
 - **Reddit TL;DR Bot** — JS Chrome extension + Python (Flask) pipeline for comment sampling + sentiment TL;DRs  
