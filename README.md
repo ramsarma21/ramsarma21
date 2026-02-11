@@ -17,9 +17,12 @@
 - **Intuit** — shipping product features end-to-end (JS + REST APIs) with unit/integration/regression tests to improve reliability
 
 ### 🧪 Projects
-- **Morphed** — Swift, JavaScript, Gemini API, Supabase  
 - **Reddit TL;DR Bot** — JS Chrome extension + Python (Flask) pipeline for comment sampling + sentiment TL;DRs  
 - **AllergyPatrol** — Next.js (TS) + Spoonacular + CNN/ResNet50 (FastAPI) for allergen-safe recommendations + image-based detection
+- **PipeAlign (TIDAL HACK 2026)** — Python (Pandas/NumPy) + Streamlit + Matplotlib/Plotly for multi-run ILI alignment + anomaly matching (weld-anchored drift correction, schema/unit normalization, explainable outputs + bounded projections); Recieved **RCP Track Honorable Mention**
+- **T-Care (HackUTD 2025)** — Supabase + Google Gemini + Vite + Tailwind CSS with WebSocket streaming + multi-channel alerts (Email, Telegram bot, VAPI voice assistant) and tower status monitoring in a unified interface; Recieved **HackUTD T-Mobile Honorable Mention**
+
+
 
 ### 🤝 I'm looking to collaborate on
 - Web Full-stack apps (Next.js/React/TypeScript)
