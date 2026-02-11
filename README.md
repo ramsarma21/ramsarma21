@@ -44,10 +44,7 @@
   </a>
   <a href="mailto:ramssarma@utexas.edu">
     <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ramsarma21">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  </a>>
 </p>
 
 ### 🧰 Languages and Tools
