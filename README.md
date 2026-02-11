@@ -26,7 +26,7 @@
 
 ### 🤝 I'm looking to collaborate on
 - Web Full-stack apps (Next.js/React/TypeScript)
-- IOS Apps (Swift, JavaScript)
+- iOS Apps (Swift, JavaScript)
 - ML/NLP/computer vision tooling
 - Data/automation pipelines (scraping, ETL, dashboards)
 
